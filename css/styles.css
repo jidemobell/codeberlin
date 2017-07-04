@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(17, 0, 34);
+}
+
+.tocenter {
+    position: absolute;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.centerbutton {
+    width: 100px;
+    height: 100px;
+    margin-left: 27px;
+    margin-top: 15px;
+}
+
+.textcenter span {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+.middlebar .navbar {
+    background-color: black;
+    float: none;
+}
+
+.bartext {
+    color: white;
+    margin-top: 15px;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 20px;
+}
+
+.first-text-centered {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-brand img {
+    width: 70px;
+    margin: -11px;
+}

@@ -1,0 +1,136 @@
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/shake.css");
+@import url("components/bounce.css");
+@import url("components/button.css");
+@import url("https://fonts.googleapis.com/css?family=Dosis|Indie+Flower|Open+Sans+Condensed:300|Pacifico|Poiret+One|Kaushan+Script");
+body {
+    background: rgba(231, 0, 0, 0.7);
+}
+
+.divider .navbar {
+    background-color: white;
+}
+
+.divider ul {
+    margin-top: 17px;
+    font-size: 18px;
+    letter-spacing: 15px;
+}
+
+.divider ul li a {
+    color: black;
+}
+
+.branded {
+    color: black;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.navbar-brand img {
+    width: 50px;
+    margin: -9px;
+}
+
+.navbar-brand .brand-two {
+    width: 100px;
+    margin: 4px;
+}
+
+.infoCenter {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.infop {
+    color: white;
+    margin: 50px 100px 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    text-align: right;
+}
+
+.infop p {
+    margin: -21px -20px 10px;
+}
+
+hr {
+    height: 5px;
+    background-color: rgba(231, 0, 0, 0.8);
+    margin: 0px;
+    border: none;
+}
+
+.middlebar .navbar {
+    border-radius: 0px;
+    background-color: rgba(78, 82, 192, 0.3);
+    /*
+    background-color: rgba(255, 246, 162, 0.6); */
+}
+
+#footer {
+    padding: 19px;
+    background: rgb(30, 30, 30);
+    color: white;
+    font-size: 20px;
+    margin-top: 52px;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+
+.divider .navbar .phonenumber {
+    font-weight: bold;
+}
+
+.navbar-text {
+    float: inherit;
+}
+
+.middlebar .navbar .middlecontent .middletext {
+    margin-right: 10px;
+    display: initial;
+}
+
+.fa-arrow-circle-o-right {
+    color: white;
+}
+
+.footer span .spanned {
+    font-size: 7px;
+    color: red;
+}
+
+.navbar-text {
+    float: left;
+    color: white;
+    font-weight: 300;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.fa-envelope-o {
+    color: white;
+}
+
+.fa-envelope-o:hover {
+    color: pink;
+}
+
+.fa-arrow-circle-o-right:hover {
+    color: pink;
+}
+
+.mobilenumber {
+    font-weight: 400;
+}
+
+.institutions {
+    margin: auto;
+    position: absolute;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
